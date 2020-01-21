@@ -1,6 +1,6 @@
 /*
 *   A. Chavez
-*   graph.cpp
+*   dijkstra.cpp
 *   12/30/2019
 *   
 *   Adjacency matrix used to created weighted graph
